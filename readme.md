@@ -11,8 +11,8 @@
 ## Poject contain: 
 - Add your task. 
 - Filter tasks.
-- Remove it when your done @octocat :shpiit: .
-- Save your task in local storage @octocat :+1:.
+- Remove it when your done  :shpiti:.
+- Save your task in local storage :+1:.
 
 ## Responsive page. 
 
