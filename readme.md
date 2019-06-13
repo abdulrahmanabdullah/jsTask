@@ -2,11 +2,11 @@
 
 ### By using HTML & CSS & JS 
 
-![alt text](https://github.com/abdulrahmanabdullah/jsTask/images/Selection_065.png)
+![alt text](https://github.com/abdulrahmanabdullah/jsTask/master/images/Selection_065.png)
 
-![alt text](https://github.com/abdulrahmanabdullah/jsTask/images/Selection_066.png)
+![alt text](https://github.com/abdulrahmanabdullah/jsTask/master/images/Selection_066.png)
 
-![alt text](https://github.com/abdulrahmanabdullah/jsTask/images/Selection_067.png)
+![alt text](https://github.com/abdulrahmanabdullah/jsTask/master/images/Selection_067.png)
 
 
 ## Poject contain: 
