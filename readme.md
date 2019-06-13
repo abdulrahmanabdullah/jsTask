@@ -5,7 +5,7 @@
 ![alt text](https://raw.githubusercontent.com/abdulrahmanabdullah/jsTask/master/images/Selection_065.png)
 
 
-![](images/firstImage.png)
+![](firstImage.png)
 
 ## Poject contain: 
 - Add your task. 
