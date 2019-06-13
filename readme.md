@@ -2,15 +2,17 @@
 
 ### By using HTML & CSS & JS 
 
-![alt text](https://raw.githubusercontent.com/abdulrahmanabdullah/jsTask/master/.gitignore/images/Selection_066.png)
-
-
 ![](firstImage.png)
+![](screenshot/Selection_066.png)
+![](screenshot/Selection_067.png)
+![](screenshot/Selection_068.png)
+
+
 
 ## Poject contain: 
 - Add your task. 
 - Filter tasks.
-- Remove it when your done  :shpiti: .
+- Remove it when your done  :shipit:.
 - Save your task in local storage :+1: .
 
 ## Responsive page. 
