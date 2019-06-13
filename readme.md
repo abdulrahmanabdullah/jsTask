@@ -4,7 +4,7 @@
 
 ![alt text](https://raw.githubusercontent.com/abdulrahmanabdullah/jsTask/master/images/Selection_065.png)
 
-![Screenshot](images/Selection_067.png)
+![Screenshot](Selection_067.png)
 ![alt text](https://raw.githubusercontent.com/abdulrahmanabdullah/jsTask/master/images/Selection_067.png)
 
 
